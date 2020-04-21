@@ -1,2 +1,2 @@
-this is awesome avocado juice: ${textIn}.
-Created on ${Date.now()}
+this is awesome avocado juice: [datecheck]${textIn}.
+Created on ${dateCheck}
